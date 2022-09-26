@@ -1,3 +1,7 @@
+
+# Workshop: Micro Blog
+
+## A little overview of the DApp
 This is my solution to the [Umoja3 Bounty](https://events.reach.sh/decentralized-umoja-3)
 
 The Solution is a microblog called Mono Blog. It allows people to make blog post directly on the algorand blockchain network.
@@ -5,9 +9,7 @@ The live url can be found here [monoblog](https://mono-microblog.vercel.app/)
 
 I made use of Next js, chakra UI and reach events to build this application. It's completely mobile responsive and works on all devices.
 
-
-# Workshop: Micro Blog
-
+## Workshop 
 In this workshop, we'll go through A Bounty Hack submission, the MicroBlog Dapp.
 The Dapp consists of two actors `Blogger` and `Readers`. The `Blogger`s are responsible for managing blogs they create and have different privileges. They interact with the contract and create blogs that can be viewed by anyone from anywhere.
 The `Readers` are the actors who consume the content.
